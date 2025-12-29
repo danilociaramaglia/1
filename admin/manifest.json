@@ -1,0 +1,11 @@
+{
+	"name": "danilo ciaramaglia - hypnagogic visionem Admin",
+	"start_url": "http://localhost/admin/",
+	"display": "standalone",
+	"background_color": "#E5E5E5",
+	"theme_color": "#F28D4F",
+	"scope": "http://localhost/admin/",
+	"icons": [
+		{ "src": "http://localhost/admin/images/logo_v84n9pe1.png", "type": "image/png", "sizes": "126x126" }
+	]
+}
